@@ -1,5 +1,4 @@
-
- :root {
+:root {
     --primary-color: #3685fb;
     --primary-color-dark: #a82d1d;
     --secondary-color: #92e4c2;
@@ -8,8 +7,8 @@
     --extra-light: #aee0cf;
     --max-width: 1200px;
   }
-
- * {
+  
+  * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -67,7 +66,7 @@
     left: 50%;
     border: 0.5rem solid var(--extra-light);
     border-radius: 2rem;
-    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.1);
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.705);
     max-width: 350px;
     transform: translate(-50%, -50%);
   }
