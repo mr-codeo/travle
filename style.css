@@ -1,4 +1,15 @@
-  * {
+
+ :root {
+    --primary-color: #3685fb;
+    --primary-color-dark: #a82d1d;
+    --secondary-color: #92e4c2;
+    --text-dark: #0d213f;
+    --text-light: #cfcabe;
+    --extra-light: #aee0cf;
+    --max-width: 1200px;
+  }
+
+ * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
